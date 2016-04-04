@@ -1,3 +1,3 @@
-print "hello world"
+print "hello world!"
 a = 123
 dinmor = "Hanne"
